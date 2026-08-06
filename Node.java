@@ -1,9 +1,12 @@
 
 public class Node {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+	public int data;
+	public Node next;
+	
+	public Node(int value) {
+		data = value;
+		next = null;
 	}
 
 }
