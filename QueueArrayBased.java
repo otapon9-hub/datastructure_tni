@@ -1,5 +1,5 @@
 
-public class Node {
+public class QueueArrayBased {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
